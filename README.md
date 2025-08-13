@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode" width="120"/>
-  <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/design-system/public/favicon.ico" width="40" title="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
 </p>
 
 🚩 Quick Facts
