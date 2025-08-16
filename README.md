@@ -26,46 +26,20 @@
   </a>
 </p>
 
-<h2>🛠️ Languages and Tools</h2>
-<div class="tools-container">
-  <div class="tool-box">C</div>
-  <div class="tool-box">C++</div>
-  <div class="tool-box">Python</div>
-  <div class="tool-box">HTML5</div>
-  <div class="tool-box">CSS3</div>
-  <div class="tool-box">Bootstrap</div>
-  <div class="tool-box">JavaScript</div>
-  <div class="tool-box">Git</div>
-  <div class="tool-box">GitHub</div>
-  <div class="tool-box">VS Code</div>
-  <div class="tool-box">Vercel</div>
-  <div class="tool-box">Postman</div>
-</div>
+🛠️ Languages and Tools 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" width="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman" />
+</p>
 
-<style>
-  .tools-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-    margin-top: 10px;
-  }
-
-  .tool-box {
-    border: 2px solid #333;
-    border-radius: 8px;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-weight: bold;
-    background: #f9f9f9;
-    box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
-    transition: all 0.3s ease;
-  }
-
-  .tool-box:hover {
-    background: #eaeaea;
-    transform: translateY(-3px);
-  }
-</style>
 
 🚩 Quick Facts
 
