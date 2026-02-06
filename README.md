@@ -14,6 +14,7 @@
 - 🌱 Exploring **Data Structures & Algorithms**
 - 💬 Ask me about **C, Java, GitHub & Problem Solving**
 - 🧠 Strong in debugging & logical thinking
+- 📝 Regularly practicing coding & participating in challenges
 - 📫 Reach me at: **rupalimangla.9842@gmail.com**
 
 ---
@@ -58,28 +59,8 @@
 
 - 🏆 Open to collaboration on web projects
 - 🤝 Interested in hackathons & open-source
-- 🌟 Focused on improving coding consistency
+- 🌟 Strong in debugging and logical thinking
 - 📈 Goal: Become a skilled Full Stack Developer
-
----
-
-## 📊 GitHub Stats
-
-![Rupali's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Manglarupali007&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Manglarupali007&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manglarupali007&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Manglarupali007&theme=radical&margin-w=15&margin-h=15)
 
 ---
 
